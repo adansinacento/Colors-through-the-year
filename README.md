@@ -1,2 +1,8 @@
-# Colors-through-the-year
-Bot for the @everydaycolor twitter bot.
+# Colors Through The Year
+Bot for the **[@everydaycolor](http://www.twitter.com/evetydaycolor)**  twitter bot.
+
+**[AdanSinAcento](http://www.twitter.com/adansinacento)** 2018.         
+This bot uses [CodeBird](https://github.com/jublonet/codebird-php).    
+
+When in doubt HMU @ twitter.    
+Pull requests are welcomed.
